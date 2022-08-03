@@ -1,0 +1,15 @@
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.exe
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.deps.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.runtimeconfig.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.AssemblyReference.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfoInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfo.cs
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.CoreCompileInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\refint\Example003_Sum.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.genruntimeconfig.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example003_Sum\obj\Debug\net6.0\ref\Example003_Sum.dll
