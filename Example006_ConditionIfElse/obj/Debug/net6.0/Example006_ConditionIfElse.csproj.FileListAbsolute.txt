@@ -1,0 +1,15 @@
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.exe
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.deps.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.runtimeconfig.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\bin\Debug\net6.0\Example006_ConditionIfElse.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.csproj.AssemblyReference.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.AssemblyInfoInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.AssemblyInfo.cs
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\refint\Example006_ConditionIfElse.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\Example006_ConditionIfElse.genruntimeconfig.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example006_ConditionIfElse\obj\Debug\net6.0\ref\Example006_ConditionIfElse.dll
