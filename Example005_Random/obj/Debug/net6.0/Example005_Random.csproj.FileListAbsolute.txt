@@ -1,0 +1,15 @@
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\bin\Debug\net6.0\Example005_Random.exe
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\bin\Debug\net6.0\Example005_Random.deps.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\bin\Debug\net6.0\Example005_Random.runtimeconfig.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\bin\Debug\net6.0\Example005_Random.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\bin\Debug\net6.0\Example005_Random.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.csproj.AssemblyReference.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.AssemblyInfoInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.AssemblyInfo.cs
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.csproj.CoreCompileInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\refint\Example005_Random.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\Example005_Random.genruntimeconfig.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example005_Random\obj\Debug\net6.0\ref\Example005_Random.dll
