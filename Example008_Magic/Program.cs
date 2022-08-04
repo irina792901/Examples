@@ -1,5 +1,5 @@
 ﻿Console.Clear();
-int xa = 40, ya = 1, xb = 1, yb = 30, xc = 81, yc = 30;
+int xa = 40, ya = 1, xb = 1, yb = 30, xc = 80, yc = 30;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
@@ -35,5 +35,5 @@ while (count < 1000)
     Console.WriteLine("+");
     count++;
 }
-Console.SetCursorPosition(0, yc+1);
-Console.WriteLine("                              ");
+Console.SetCursorPosition(xa, ya-1);
+string emptyStr = string.Empty;
