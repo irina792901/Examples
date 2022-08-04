@@ -1,14 +1,14 @@
 ﻿Console.Clear();
-int xa = 1, ya = 1, xb = 1, yb = 30, xc = 80, yc = 30;
+int xa = 20, ya = 1, xb = 1, yb = 40, xc = 70, yc = 30;
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
 Console.SetCursorPosition(xb, yb);
 Console.WriteLine("+");
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
-int x = xa, y = yb;
+int x = xa, y = ya;
 int count = 0;
-while (count < 10000)
+while (count < 1000)
 {
     int what = new Random().Next(0, 3); //0,1,2
     if (what == 0)
