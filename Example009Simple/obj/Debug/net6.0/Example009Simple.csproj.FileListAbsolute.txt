@@ -1,0 +1,15 @@
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\bin\Debug\net6.0\Example009Simple.exe
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\bin\Debug\net6.0\Example009Simple.deps.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\bin\Debug\net6.0\Example009Simple.runtimeconfig.json
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\bin\Debug\net6.0\Example009Simple.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\bin\Debug\net6.0\Example009Simple.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.csproj.AssemblyReference.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.GeneratedMSBuildEditorConfig.editorconfig
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.AssemblyInfoInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.AssemblyInfo.cs
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.csproj.CoreCompileInputs.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\refint\Example009Simple.dll
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.pdb
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\Example009Simple.genruntimeconfig.cache
+D:\МАМИНА ПАПКА\GEEK BRAINS\С#\Examples\Example009Simple\obj\Debug\net6.0\ref\Example009Simple.dll
